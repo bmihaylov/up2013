@@ -10,7 +10,8 @@
   изпишете дали точката принадлежи на дадената фигура. 
   Пример:   
   ```C++   
-  if(булев_израз)
+  bool b;
+  if(b)
     cout << "The point: (" << a << ", " << b 
          << ") belongs to the first figure" << endl;
   else
