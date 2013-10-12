@@ -9,7 +9,7 @@
   След като напишете изразите за всеки използвайте конструкцията `if else` за да 
   изпишете дали точката принадлежи на дадената фигура. 
   Пример:   
-  ```C++   
+  ```C++
   bool b;
   if(b)
     cout << "The point: (" << a << ", " << b 
@@ -41,7 +41,7 @@
     ```C++
     int n = 5783, k = 3;
     cout << k << "\'th digit of n from rigth to left is: "
-              << (n / pow(10, 2)) % 10 << endl;
+              << (n / pow(10, 3-1)) % 10 << endl;
     ``` 
     изписва третата цифра на n. 
     Функция [pow](http://www.cplusplus.com/reference/cmath/pow/).
