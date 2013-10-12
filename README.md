@@ -4,7 +4,7 @@
 Предавайте само .cpp (или .c) файлове, 
 тоест само тeзи файлoве които съдържат кода ви. 
 Без project файлове от различни IDE-та и т.н. 
-Subject трябва да има формата up_hw_<номер>. 
+Subject трябва да има формата `up_hw_<номер>` 
 Пример: `up_hw_1` 
 Съдържанието трябва да е двете имена и факултетен номер. 
 Прикачете файлът(файловете), като ако са повече от един 
@@ -21,7 +21,7 @@ hw<homework_number>_<first_name>_<last_name>_<faculty_number>
 но кой асистент да си праща домашното.
 Засега предавайте и на двата email-a: 
 
-*bmichailov@gmail.com
-*genadiev.veselin@gmail.com
+* bmichailov@gmail.com
+* genadiev.veselin@gmail.com
 
 
